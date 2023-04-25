@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masifamu" alt="masifamu" /></a> </p>
 
-- 🔭 I’m currently working on **Neural Processors**
+- 🔭 I’m currently working on **Neural Decision Processors**
 
 - 🌱 I’m currently learning **Linux**
 
