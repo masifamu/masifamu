@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mohammad-asif-718b94b8](https://www.linkedin.com/in/mohammad-asif-718b94b8)
 
-<h3 align="left">Connect with me:</h3>
+<!---<h3 align="left">Connect with me:</h3>-->
 <p align="left">
 </p>
 
