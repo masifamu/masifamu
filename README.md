@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://cisasif.blogspot.com/](https://cisasif.blogspot.com/)
 
-- 💬 Ask me about **Embedded Electronics: MCU, FreeRTOS, Motor Control, Machine Learning**
+- 💬 Ask me about **Embedded Electronics: MCU, FreeRTOS, Motor Control, Machine Learning, Robotics, Communication protocols**
 
 - 📫 How to reach me **asif.punchline@gmail.com**
 
